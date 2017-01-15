@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Temperature</string>
+  <string name="fixed_message">Terminal temperature is displayed below.</string>
+  <string name="temperature_format">"%2.1f ℃"</string>
+</resources>
